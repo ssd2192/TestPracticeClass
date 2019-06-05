@@ -1,0 +1,11 @@
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\bin\Debug\netcoreapp2.1\TestPracticeClass.deps.json
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\bin\Debug\netcoreapp2.1\TestPracticeClass.runtimeconfig.json
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\bin\Debug\netcoreapp2.1\TestPracticeClass.runtimeconfig.dev.json
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\bin\Debug\netcoreapp2.1\TestPracticeClass.dll
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\bin\Debug\netcoreapp2.1\TestPracticeClass.pdb
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.csprojAssemblyReference.cache
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.csproj.CoreCompileInputs.cache
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.AssemblyInfoInputs.cache
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.AssemblyInfo.cs
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.dll
+C:\Users\aman1\source\repos\TestPracticeClass\TestPracticeClass\obj\Debug\netcoreapp2.1\TestPracticeClass.pdb
