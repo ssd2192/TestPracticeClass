@@ -7,9 +7,21 @@ namespace TestPracticeClass
         static string str;
         static void Main(string[] args)
         {
+            Palindrom p = new Palindrom();
+            p.checkPalindrom();
             
-            Console.Write("Enter the Number: ");
-            str = Console.ReadLine();
+            Console.ReadKey();
+        }
+
+       
+
+    }
+    class Palindrom
+    {
+        public void checkPalindrom()
+        {
+            Console.Write("Enter the String: ");
+            string str = Console.ReadLine();
 
             if (IsPalindrom(str))
             {
@@ -17,8 +29,6 @@ namespace TestPracticeClass
             }
             else
                 Console.WriteLine("not palindrom");
-
-            Console.ReadKey();
         }
 
         public static bool IsPalindrom(string str)
